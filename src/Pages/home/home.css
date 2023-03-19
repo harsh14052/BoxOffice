@@ -55,3 +55,37 @@
   text-align: left;
   width: 50%;
 }
+
+@media only screen and (max-width: 1000px) {
+  .posterImage {
+    width: auto;
+    height: 100px;
+  }
+  .posterImage_title {
+    font-weight: 450;
+    font-size: 2rem;
+  }
+  .posterImage_runtime {
+    font-size: 1rem;
+  }
+  .posterImage_description {
+    font-size: 0.75rem;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .posterImage {
+    width: auto;
+    height: 100px;
+  }
+  .posterImage_title {
+    font-weight: 450;
+    font-size: 1rem;
+  }
+  .posterImage_runtime {
+    font-size: 0.75rem;
+  }
+  .posterImage_description {
+    font-size: 0.5rem;
+  }
+}
