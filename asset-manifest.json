@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BoxOffice/static/css/main.5fed1949.css",
+    "main.js": "/BoxOffice/static/js/main.e5237707.js",
+    "index.html": "/BoxOffice/index.html",
+    "main.5fed1949.css.map": "/BoxOffice/static/css/main.5fed1949.css.map",
+    "main.e5237707.js.map": "/BoxOffice/static/js/main.e5237707.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fed1949.css",
+    "static/js/main.e5237707.js"
+  ]
+}
