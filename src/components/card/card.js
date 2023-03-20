@@ -19,6 +19,18 @@ const Cards = ({ movie }) => {
           <SkeletonTheme basecolor="#202020" highlightColor="#444">
             <Skeleton height={300} duration={2} />
           </SkeletonTheme>
+          {/* <SkeletonTheme baseColor="#202020" highlightColor="#444">
+            <div>
+              <Skeleton
+                width={100}
+                count={3}
+                height={300}
+                enableAnimation={true}
+                duration={1.5}
+                direction="ltr"
+              />
+            </div>
+          </SkeletonTheme> */}
         </div>
       ) : (
         <Link
