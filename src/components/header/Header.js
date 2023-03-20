@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className="header">
       <div className="headerLeft">
-        <Link to="/">
+        <Link to="/BoxOffice">
           <img
             className="header_icon"
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq52J_bwxCYWRkMuj9no5_DE83R0kZ8eawAA&usqp=CAU"
